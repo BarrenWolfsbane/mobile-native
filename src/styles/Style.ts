@@ -390,7 +390,6 @@ export const buildStyle = (theme): ThemedStyle => ({
   borderIcon: {
     borderColor: theme.icon,
   },
-
   // fonts
   fontXS: {
     fontSize: 10,
@@ -411,10 +410,10 @@ export const buildStyle = (theme): ThemedStyle => ({
     fontSize: 18,
   },
   fontXXL: {
-    fontSize: 24,
+    fontSize: 22,
   },
   fontXXXL: {
-    fontSize: 30,
+    fontSize: 28,
   },
 
   // text align
